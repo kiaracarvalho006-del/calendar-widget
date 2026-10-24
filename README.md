@@ -29,7 +29,7 @@ Make sure you have [Node.js](https://nodejs.org/) and npm installed.
 ### 2. Clone this Repo
 
 ```
-git clone https://github.com/nasha-wanich/calendar-widget.git
+git clone (https://github.com/kiaracarvalho006-del/calendar-widget.git)
 cd calendar-widget
 ```
 
