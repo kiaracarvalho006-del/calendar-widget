@@ -1,0 +1,13 @@
+{
+  "name": "calendar-widget",
+  "productName": "Calendar Widget",
+  "version": "1.0.0",
+  "description": "A minimal Electron calendar app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^45.0.0"
+  }
+}
