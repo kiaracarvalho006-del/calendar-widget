@@ -18,8 +18,7 @@ Built with **HTML, CSS, JavaScript, and Electron**, this project explores deskto
 - CSS3
 - JavaScript
 - [Electron](https://www.electronjs.org/)
-- [Google Fonts](https://fonts.google.com/) — Playfair Display and Cormorant Garamond
-
+  
 ## How to use
 
 ### 1. Prerequisites
